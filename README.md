@@ -12,11 +12,8 @@
   
   <p align="center">
   <img width="1362" alt="Screen Shot 2022-04-24 at 10 16 12 PM" src="https://user-images.githubusercontent.com/49578771/165025022-d6e5dc7f-343a-464d-aa40-f3957928edcd.png">
-
   </p>
   
   <p align="center">
   <img width="1366" alt="Screen Shot 2022-04-24 at 10 16 40 PM" src="https://user-images.githubusercontent.com/49578771/165025059-7fc894bb-7c84-469b-bc28-e52e57415288.png">
-
     </p>
-   
